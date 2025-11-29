@@ -1,0 +1,8 @@
+# Requirements for Microsoft Agent Framework Lab
+
+# Core packages
+agent-framework
+azure-identity
+
+# Optional but recommended
+python-dotenv  # For .env file support
